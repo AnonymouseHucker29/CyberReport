@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529748171567",
+    "project_id": "cyberreport-50557",
+    "storage_bucket": "cyberreport-50557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529748171567:android:5bf65cf59cf3abc0f45fda",
+        "android_client_info": {
+          "package_name": "com.project.cyberreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529748171567-5k5723nlrf4sn63ie7tbtfn1c7lus6tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRzG3xEDeLEezB8xq472L7OMrxpt158U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529748171567-5k5723nlrf4sn63ie7tbtfn1c7lus6tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

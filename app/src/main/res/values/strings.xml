@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CyberReport</string>
+    <string name="regEmail">Email</string>
+    <string name="regPassword">Password</string>
+    <string name="regButton">Register</string>
+    <string name="logButton">Login</string>
+    <string name="regLoginText">Already have an account? Login instead.</string>
+    <string name="logRegText">Don\'t have an account? Register instead.</string>
+    <string name="loginWelcome">Hello,</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstQuestion">What kind of Cybercrime did you Experience?</string>
+    <string name="log_out">Log out</string>
+    <string name="buttonNext">Next</string>
+    <string name="ques1">To avoid scam and to verify your report, please upload your birth certificate here.</string>
+    <string name="ques1btn">Choose image</string>
+    <string name="Continue">Next</string>
+    <string name="logout">Log out</string>
+    <string name="secondaryTitle">Please provide the necessary information.</string>
+    <string name="ques2">What kind of Cybercrime did you Experience?</string>
+    <string name="Others">Others (please specify)</string>
+    <string name="occured">When did this happened?</string>
+    <string name="ques3">Please send a proof of the crime you experienced.</string>
+    <string name="ques4">To continue your report, take a picture of you while holding your valid ID.</string>
+    <string name="finalBtn">Submit</string>
+    <string name="Exit">Log out</string>
+    <string name="greetings">Welcome to CyberReport!</string>
+    <string name="welcome">Welcome to CyberReport</string>
+    <string name="loginnow">Log In now to use the application.</string>
+    <string name="registernow">Register now to use the application.</string>
+
+    <string-array name="Cybercrime">
+        <item>DDoS Attacks</item>
+        <item>Botnet</item>
+        <item>Identity Theft</item>
+        <item>Cyberstalking</item>
+        <item>Social Engineering</item>
+        <item>PUP\'s or Social Unwanted Programs</item>
+        <item>Phishing</item>
+        <item>Prohibited/Illegal Content</item>
+        <item>Hacking and Cracking</item>
+        <item>Cyberbullying</item>
+    </string-array>
+
+</resources>

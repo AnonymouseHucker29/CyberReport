@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/drawable/email.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/drawable/password.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_content.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_content2.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_content3.xml" value="0.22" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_content4.xml" value="0.22" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_intro.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_last.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_main.xml" value="0.15172101449275363" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/collectinfo.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/layout/fragment_collect_info.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/menu/appbar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/menu/appbarmenu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18871794871794872" />
+        <entry key="..\:/Users/Brent/AndroidStudioProjects/CyberReport/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18871794871794872" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
